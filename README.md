@@ -1,1 +1,2 @@
 # the_proper_way
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vTh5SvMIwkZpjFNtH5i1Q_TCjHaJBWcEIxgCNGjUWO-QwryeX3GlbjK2APULyZXOLqyskN9wG61Ap6T/pub?embedded=true"></iframe>
